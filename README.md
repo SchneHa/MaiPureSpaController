@@ -1,5 +1,5 @@
 # MaiPureSpaController
-Update: please also see my implementaion in this branche https://github.com/UlrichMai/diyscip/tree/support-homekit .
+Update: please also see my implementation in this branch https://github.com/UlrichMai/diyscip/tree/support-homekit.
 That project initially focused on MQTT and a hardware solution. I contributed support for my simple hardware, added HomeKit support, and support for the salt water pool type. That solution is very stable!
 Unfortunately my contribution was not accepted, but you can simply use/download my above branch.
 
